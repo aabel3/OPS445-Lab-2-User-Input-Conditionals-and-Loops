@@ -26,7 +26,6 @@ lab2d.py – Conditional execution with if
 lab2e.py – Conditional execution with if/elif/else
 lab2f.py – While loops with arguments
 lab2g.py – Combining loops and conditionals
-laboutput.txt – Output log from the checking script
 
 🧩 Tips & Tricks:
 Use input() to capture user data and store it in variables.
