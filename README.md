@@ -37,7 +37,3 @@ Keep your code modular and well-commented for easier debugging and review.
 
 📖 References:
 OPS445 Lab 2 – Littlesvr Wiki (http://wiki.littlesvr.ca/wiki/OPS445_Lab_2)
-
-
-📖 References:
-OPS445 Lab 2 – Littlesvr Wiki (http://wiki.littlesvr.ca/wiki/OPS445_Lab_2)
