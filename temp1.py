@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 2
+# temp1.py
+# Author: Avraham Abel
 
 import sys
 
